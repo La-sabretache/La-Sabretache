@@ -1443,7 +1443,8 @@ dialog#cartDrawer[open]::backdrop {
   gap: 0.75rem;
 }
 
-.footer-links a:hover {
+.footer-links a:hover,
+.footer-contact a:hover {
   color: var(--color-amber-light);
 }
 
